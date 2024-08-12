@@ -3,8 +3,8 @@
 Power up your animation production with AI. Access features directly from your favorite animation studio!
 
 Our first plugin is out: Tweening right from Krita and Blender -
-- [krita plugin repo](https://github.com/genime/krita-genime-plugin)
-- Blender repo launching soon.
+- [Krita plugin repo](https://github.com/genime/krita-genime-plugin)
+- [Blender plugin repo](https://github.com/genime/blender-genime-plugin)
 
 ### Socials
 - Discord: https://discord.gg/vscpmuPB
