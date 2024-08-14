@@ -7,7 +7,7 @@ Our first plugin is out: Tweening right from Krita and Blender -
 - [Blender plugin repo](https://github.com/genime/blender-genime-plugin)
 
 ### Socials
-- Discord: https://discord.gg/vscpmuPB
+- For Discord invite: https://genime.art
 - TikTok: https://www.tiktok.com/@genimeart
 - X: https://x.com/genimestudio
 - Instagram: https://www.instagram.com/genimestudio
